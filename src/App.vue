@@ -16,9 +16,9 @@ import TheWelcome from "./components/TheWelcome.vue";
 </template>
 
 <style scoped>
-header {
+/* header {
   line-height: 1.5;
-}
+} */
 
 .logo {
   display: block;
